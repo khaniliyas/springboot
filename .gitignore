@@ -5,3 +5,4 @@ target/
 *.log
 build/
 .gradle/
+.mvn/
